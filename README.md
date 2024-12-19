@@ -2,5 +2,5 @@
 
 Just a simple game
 
-##Build
+## Build
 use the make command in src folder to build the game
