@@ -3,4 +3,4 @@
 Just a simple game
 
 ## Build
-use the ''' diff ! make ''' command in src folder to build the game
+use the <span style="background-color:green">make</span> command in src folder to build the game
